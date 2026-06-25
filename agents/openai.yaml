@@ -1,0 +1,5 @@
+display_name: Get ZIP of Skills
+short_description: Download GitHub repos, save zip files, and update skills catalog
+default_prompt: Download a skill from GitHub and save it
+developerName: miku
+category: Productivity
